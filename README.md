@@ -36,6 +36,7 @@ Programming / Engineer
 
 I like playing, playing mobile games and watching anime.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1.2 Team Management
 This project is the result of the hardwork of our team and a showcase of our spirit and drive to succeed in the competition and create a feat of robotics that we can be proud of that is worthy of a showcase at the largest robotics event in the phillipines. Each of our members worked hand in hand to be able to represent La union and we have learned more than we could've imagined by working on this project.
 
