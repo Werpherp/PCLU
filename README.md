@@ -6,25 +6,36 @@ Robot name: Ginadman
 Teammates: John Viray, John Kenneth Orellano. Naithan Velasco
 Match name (PCLU robotics team)
 
-1. About us
+1. About us 
 
 1.1
 
 John Viray
-16
-Programmer/ Technical analysis
-I enjoy driving, surfing, and boxing. A lot of my inspiration comes from those cool machines like F1 cars and fighter jets. Single
 
-John Kenneth Orellano
 16
+
+Programmer/ Technical analysis
+
+I enjoy driving, surfing, and boxing. A lot of my inspiration comes from those cool machines like F1 cars and fighter jets. Single.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+John Kenneth Orellano
+
+16
+
 Robot engineer / Research developer
+
 I like gaming, playing chess, and watching movies/anime until morning and sketching if I'm bored but most of the time, I'm watching movies and anime
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Naithan Velasco
-16
-Programming / Engineer
-I like playing, playing mobile games and watching anime.
 
+16
+
+Programming / Engineer
+
+I like playing, playing mobile games and watching anime.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.2 Team Management
 This project is the result of the hardwork of our team and a showcase of our spirit and drive to succeed in the competition and create a feat of robotics that we can be proud of that is worthy of a showcase at the largest robotics event in the phillipines. Each of our members worked hand in hand to be able to represent La union and we have learned more than we could've imagined by working on this project.
 
