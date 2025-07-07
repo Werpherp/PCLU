@@ -35,6 +35,7 @@ Naithan Velasco
 Programming / Engineer
 
 I like playing, playing mobile games and watching anime.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.2 Team Management
