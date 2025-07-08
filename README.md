@@ -90,16 +90,4 @@ Despite our stubbornness to utilize Aisteam, Ev3 ultimately proved to be a much 
 3.1 Bill of Materials
 __________________________________________________________
 
-1 Ev3 Large motor
-
-1 Ev3 medium motor
-
-1 Ev3 Hub
-
-1 Ev3 battery/power source
-
-3 Ev3 Infrared barrier avoidance sensors
-
-1 color sonsor
-
-1 pixicam camera
+![image can't be loaded so either click the link or get wifi](sheet1.pdf)
