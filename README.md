@@ -81,7 +81,7 @@ We participate in this competition in order to showcase our skills and talents i
 
 2.3 Why Ev3?
 
-Despite our stubbornness to utilize Aisteam, Ev3 ultimately proved to be a much more reliable and faster option for us as its motor were much less jittery and much more durable. Additionally, the parts for Ev3 were much more accessible and allowed us to utilize it to a much higher potential than we ever could have with Aisteam, we work with what we have and we believe that we have enough to win the competition.
+Ev3 ultimately proved to be a much more reliable and faster option for us as its motor were much less jittery and much more durable. Additionally, the parts for Ev3 were much more accessible and allowed us to utilize it to a much higher potential than we ever could have with Aisteam, we work with what we have and we believe that we have enough to win the competition.
 
 3.0 Mobility Management
 ------------------------------------
