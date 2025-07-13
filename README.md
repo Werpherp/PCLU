@@ -1,5 +1,5 @@
 # PCLU
-Hey, if you're reading this, then you're interested in our robot, enjoy reading and hope you like our work (unless you're working on it)
+Hey, if you're reading this, then you're interested in our robot, enjoy reading and hope you like our work 
 
 Team name: Siribtech
 
@@ -7,12 +7,12 @@ Robot name: Ginadman
 
 Teammates: John Viray, John Kenneth Orellano. Naithan Velasco
 
-Match name (PCLU robotics team)
+Match name: Self Driving car
 
-1.0 About us 
+1.0 Introduction 
 -----------------------
 
-1.1
+1.1 About us!
 
 John Viray
 
@@ -140,6 +140,7 @@ The wiring is organized in order to not inhibit the robot or it's movements, mos
 
 6.0 strategy
 
+
 6.1 Walls
 
 Just like in real life, it is preferred not to crash into a wall while driving at high speeds. Our robot uses the same logic by turning to the right when it detects a wall or the corner line, additionally we would prefer not to scrape the paint off of the walls so a sensor will detect walls to the sides of the robot, once a limitation is reached and the gap between the robot and a wall becomes too close, it will simply adjust and straighten.
@@ -152,5 +153,9 @@ How do you know when to turn when you're driving? Probably before you hit someon
 
 Red and green are colors, our camera can tell colors apart, if its red then the robot turns left, if green, it turns right and slows down so we don't hit the inner wall.
 
-6.4 Parking
+6.4 Open challenge 
+
+7.0 Parking strategy 
+
+After completing the Three laps. Our robot begins the detection of the parking boundaries, the vehicle assess the available space and align it self with the detected area. If the robot commited the exact angle prior on the given parking space, the vehicle executes a parallel parking maneuver. The vehicle adjust its orientation to locate the exact parking area. Repeating this process until successful parking Achieved
 
