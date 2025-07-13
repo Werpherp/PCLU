@@ -91,3 +91,66 @@ Despite our stubbornness to utilize Aisteam, Ev3 ultimately proved to be a much 
 __________________________________________________________
 
 ![image can't be loaded so either click the link or get wifi](Rorke.pdf)
+
+3.2 wiring diagram
+
+3.3 why we used the motors we did
+
+We used a combination of large motors and medium motors as it allowed us to utilize the best of both worlds. We can utilize the torque and stability of the large motor to push the robot through thick and thin. The medium motor allows the front wheel drive to snap left and right allowing the robot to quickly respond to obstacles or anything in its path
+
+
+3.4 motors axle system
+
+3.5 Rack and pinion system 
+
+Our self driving car uses an Rack and pinion steering system which provides precise and stable controls for moving and turning. 
+
+
+3.5.1 how does the system wprks?
+
+The rack and pinion steering system converts the rotational motion of your steering wheel into the linear motion needed to turn the car's wheel. this system is used to reduce the tires in slipping and prevents oversteer and understeer. pressure must be constantly applied for the steering gear to be in contact with pinion bar 
+
+4.0 Power management
+
+4.1 Power distribution diagram
+
+
+4.2 power source
+The battery powering the self driving car is a Rechargeable DC (Li-ion) type with a capacity of 2050 mAH and a nominal voltage of 7.4v.
+This battery primarily use to power the Ev3 brick which is the brain of our robot and it provides a reliable and rechargeable power source, allowing our robot to run for an extended period of time without needing of constantly replacing batteries 
+
+
+4.3 why we used out sensors and camera
+
+The camera can differentiate colors by utilizing the color detection built in. the color differentiation allows us to avoid the green and red accordingly to the regulations. Our infrared avoidance sensors are utilized in order to detect near by obstacles and walls in order to avoid or adjust accordingly depending on the object, it's distance, and it's direction
+
+5.0 Building the robot
+
+5.1 The base
+
+The base was created to be compact enough to fit regulations but light enough to be quick enough to run laps in a quick and efficient manner, through revisions and the such we ultimately found our base to be effective at the job at hand, modifications were made so it could hold all our components.
+
+5.2 Adding the components
+
+The components are all connected by pegs, no adhesives were used when connecting the components to the robot. While most components simply click into place and just sit there, a few components require to be locked in such as the pinion in the steering system.
+
+5.3 Wiring
+
+The wiring is organized in order to not inhibit the robot or it's movements, most of the wires simply slip under the robot into its respective port and once connected is left there. Markings indicate where the wires go but we still get confused so we guess sometimes
+
+6.0 strategy
+
+6.1 Walls
+
+Just like in real life, it is preferred not to crash into a wall while driving at high speeds. Our robot uses the same logic by turning to the right when it detects a wall or the corner line, additionally we would prefer not to scrape the paint off of the walls so a sensor will detect walls to the sides of the robot, once a limitation is reached and the gap between the robot and a wall becomes too close, it will simply adjust and straighten.
+
+6.2 Lines
+
+How do you know when to turn when you're driving? Probably before you hit someone. Thankfully we have lines, these lines dictate when our robot turns, if a line is detected, we turn to the right, if not, then we don't turn, simple as.
+
+6.3 Obstacles
+
+Red and green are colors, our camera can tell colors apart, if its red then the robot turns left, if green, it turns right and slows down so we don't hit the inner wall.
+
+6.4 Parking
+
