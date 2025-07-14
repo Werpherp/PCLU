@@ -1,5 +1,5 @@
 # PCLU
-Hey, if you're reading this, then you're interested in our robot, enjoy reading and hope you like our work 
+Hey, if you're reading this, then you're interested in our robot, enjoy reading and hope you like our work.
 
 Team name: Siribtech
 
@@ -29,7 +29,7 @@ John Kenneth Orellano
 
 Robot engineer / Research developer
 
-I like gaming, playing chess, and watching movies/anime until morning and sketching if I'm bored but most of the time, I'm watching movies and anime
+I like gaming, playing chess, and watching movies/anime until morning and sketching if I'm bored but most of the time, I'm watching movies and anime.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Naithan Velasco
@@ -54,26 +54,26 @@ Coaches: Bong John Abraham Agno/James
 
 1.3 Reason to participate
 
-We participate in this competition in order to showcase our skills and talents in order to succeed and cooperate as a great team. We must utilize our skills and cooperation in order to represent our province of La Union and be able to make our people proud and give them something to be proud about. We enjoy the challenge of being able to go against the biggest schools in the phillipines and creating robots that could one day make a difference.Most of all, we aim to win, but we also aim to have fun while doing so and enjoy what we do despite the hardcomning and all the negativities that come along our way on our path to victory
+We participate in this competition in order to showcase our skills and talents in order to succeed and cooperate as a great team. We must utilize our skills and cooperation in order to represent our province of La Union and be able to make our people proud and give them something to be proud about. We enjoy the challenge of being able to go against the biggest schools in the phillipines and creating robots that could one day make a difference. Most of all, we aim to win, but we also aim to have fun while doing so and enjoy what we do despite the hard comning and all the negativities that come along our way on our path to victory.
 
 2.0 About the car
 -----------------------
 
 2.1 Our autonomous cars logic
 
-1. The robot begins its by engaging its driving motors, allowing it to move forward
+1. The robot begins its by engaging its driving motors, allowing it to move forward.
 
-2. It then turns after a bit of time decided by a wait function
+2. It then turns after a bit of time decided by a wait function.
 
 3. As a person would, it adjusts when it feels it's about to hit something, made possible by the multiple ultrasound sensors.
 
-4. After 3 laps, it dies
+4. After 3 laps, it dies.
 
-5. it can differentiate colors through a mix of color sensors and a camera
+5. it can differentiate colors through a mix of color sensors and a camera.
 
-6. The camera works as eyes and allows it to see better colors
+6. The camera works as eyes and allows it to see better colors.
 
-7. if theres too much of a certain color and the distance is too close, it'll read the color and turn accordingly
+7. if theres too much of a certain color and the distance is too close, it'll read the color and turn accordingly.
 
 
 
@@ -94,9 +94,9 @@ __________________________________________________________
 
 3.2 wiring diagram
 
-3.3 why we used the motors we did
+3.3 why we used medium and large motor?
 
-We used a combination of large motors and medium motors as it allowed us to utilize the best of both worlds. We can utilize the torque and stability of the large motor to push the robot through thick and thin. The medium motor allows the front wheel drive to snap left and right allowing the robot to quickly respond to obstacles or anything in its path
+We used a combination of large motors and medium motors as it allowed us to utilize the best of both worlds. We can utilize the torque and stability of the large motor to push the robot through thick and thin. The medium motor allows the front wheel drive to snap left and right allowing the robot to quickly respond to obstacles or anything in its path.
 
 
 3.4 motors axle system
@@ -108,7 +108,7 @@ Our self driving car uses an Rack and pinion steering system which provides prec
 
 3.5.1 how does the system wprks?
 
-The rack and pinion steering system converts the rotational motion of your steering wheel into the linear motion needed to turn the car's wheel. this system is used to reduce the tires in slipping and prevents oversteer and understeer. pressure must be constantly applied for the steering gear to be in contact with pinion bar 
+The rack and pinion steering system converts the rotational motion of your steering wheel into the linear motion needed to turn the car's wheel. This system is used to reduce the tires in slipping and prevents oversteer and understeer. Pressure must be constantly applied for the steering gear to be in contact with pinion bar.
 
 4.0 Power management
 
@@ -117,12 +117,12 @@ The rack and pinion steering system converts the rotational motion of your steer
 
 4.2 power source
 The battery powering the self driving car is a Rechargeable DC (Li-ion) type with a capacity of 2050 mAH and a nominal voltage of 7.4v.
-This battery primarily use to power the Ev3 brick which is the brain of our robot and it provides a reliable and rechargeable power source, allowing our robot to run for an extended period of time without needing of constantly replacing batteries 
+This battery primarily use to power the Ev3 brick which is the brain of our robot and it provides a reliable and rechargeable power source, allowing our robot to run for an extended period of time without needing of constantly replacing batteries.
 
 
 4.3 why we used out sensors and camera
 
-The camera can differentiate colors by utilizing the color detection built in. the color differentiation allows us to avoid the green and red accordingly to the regulations. Our infrared avoidance sensors are utilized in order to detect near by obstacles and walls in order to avoid or adjust accordingly depending on the object, it's distance, and it's direction
+The camera can differentiate colors by utilizing the color detection built in. The color differentiation allows us to avoid the green and red accordingly to the regulations. Our infrared avoidance sensors are utilized in order to detect near by obstacles and walls in order to avoid or adjust accordingly depending on the object, it's distance, and it's direction.
 
 5.0 Building the robot
 
@@ -136,7 +136,7 @@ The components are all connected by pegs, no adhesives were used when connecting
 
 5.3 Wiring
 
-The wiring is organized in order to not inhibit the robot or it's movements, most of the wires simply slip under the robot into its respective port and once connected is left there. Markings indicate where the wires go but we still get confused so we guess sometimes
+The wiring is organized in order to not inhibit the robot or it's movements, most of the wires simply slip under the robot into its respective port and once connected is left there. Markings indicate where the wires go but we still get confused so we guess sometimes.
 
 6.0 strategy
 
@@ -147,11 +147,11 @@ Just like in real life, it is preferred not to crash into a wall while driving a
 
 6.2 Lines
 
-How do you know when to turn when you're driving? Probably before you hit someone. Thankfully we have lines, these lines dictate when our robot turns, if a line is detected, we turn to the right, if not, then we don't turn, simple as.
+How do you know when to turn when you're driving before you hit a wall? Thankfully we have the lines, these lines dictate when our robot needs to turn. To detect the lines we use color sensor 
 
 6.3 Obstacles
 
-Red and green are colors, our camera can tell colors apart, if its red then the robot turns left, if green, it turns right and slows down so we don't hit the inner wall.
+In the obstacle challenge we use camera, this camera detects the obstacles like green and red. Once it detects the color green it needs to turn left and right for the color red. This camera helps us to know the distance between our robot and the obstacle 
 
 6.4 Open challenge 
 
