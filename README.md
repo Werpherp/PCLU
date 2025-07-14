@@ -96,17 +96,18 @@ __________________________________________________________
 
 3.3 why we used medium and large motor?
 
-We used a combination of large motors and medium motors as it allowed us to utilize the best of both worlds. We can utilize the torque and stability of the large motor to push the robot through thick and thin. The medium motor allows the front wheel drive to snap left and right allowing the robot to quickly respond to obstacles or anything in its path.
+We used a combination of large motors and medium motors as it allowed us to utilize the best of both worlds. We can utilize the torque and stability of the large motor to push the robot through thick and thin. The large motor allows the vehicle to move faster and gives the speed needed for stability and for manuever. The medium motor allows the front wheel drive to snap left and right allowing the robot to quickly respond to obstacles or anything in its path. 
 
 
 3.4 motors axle system
+the large motor are connected to an axle in the rear, which allow the car to run faster and the medium motor is connected to the steering system in front. This allows our wheels to support the weight of the robot. This axle is important for the car to move forward and backwards and ensuring a smooth turn in curves. It improves the stability of our vehicle, which is important for tight corners.
 
 3.5 Rack and pinion system 
 
 Our self driving car uses an Rack and pinion steering system which provides precise and stable controls for moving and turning. 
 
 
-3.5.1 how does the system wprks?
+3.5.1 how does the system works?
 
 The rack and pinion steering system converts the rotational motion of your steering wheel into the linear motion needed to turn the car's wheel. This system is used to reduce the tires in slipping and prevents oversteer and understeer. Pressure must be constantly applied for the steering gear to be in contact with pinion bar.
 
@@ -154,6 +155,7 @@ How do you know when to turn when you're driving before you hit a wall? Thankful
 In the obstacle challenge we use camera, this camera detects the obstacles like green and red. Once it detects the color green it needs to turn left and right for the color red. This camera helps us to know the distance between our robot and the obstacle 
 
 6.4 Open challenge 
+for the open challenge we use 
 
 7.0 Parking strategy 
 
