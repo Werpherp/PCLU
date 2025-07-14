@@ -100,6 +100,7 @@ We used a combination of large motors and medium motors as it allowed us to util
 
 
 3.4 motors axle system
+
 the large motor are connected to an axle in the rear, which allow the car to run faster and the medium motor is connected to the steering system in front. This allows our wheels to support the weight of the robot. This axle is important for the car to move forward and backwards and ensuring a smooth turn in curves. It improves the stability of our vehicle, which is important for tight corners.
 
 3.5 Rack and pinion system 
@@ -148,16 +149,16 @@ Just like in real life, it is preferred not to crash into a wall while driving a
 
 6.2 Lines
 
-How do you know when to turn when you're driving before you hit a wall? Thankfully we have the lines, these lines dictate when our robot needs to turn. To detect the lines we use color sensor 
+How do you know when to turn when you're driving? Thankfully we have the lines, these lines dictate when our robot needs to turn. To detect the lines we use color sensor. This sensor detects the colors blue and orange. Because of the lines we know when to turn and where to turn if left or right 
 
 6.3 Obstacles
 
-In the obstacle challenge we use camera, this camera detects the obstacles like green and red. Once it detects the color green it needs to turn left and right for the color red. This camera helps us to know the distance between our robot and the obstacle 
+In the obstacle challenge we use camera, this camera detects the obstacles like green and red. The camera  Once it detects the color green it needs to turn left and right for the color red. This camera helps us to know the distance between our robot and the obstacle. 
 
 6.4 Open challenge 
-for the open challenge we use 
+for the open challenge we use infrared and color sensors, the infrared sensors detects the inner and outer walls. Once the vehicle is near the walls the sensors detects it and adjust itself a bit further the walls. The infrared sensors help the car not to bump on the inner and outer walls. The color sensor detects the color blue and orange once it detects a color it will turn clockwise or counterclockwise.
 
 7.0 Parking strategy 
 
-After completing the Three laps. Our robot begins the detection of the parking boundaries, the vehicle assess the available space and align it self with the detected area. If the robot commited the exact angle prior on the given parking space, the vehicle executes a parallel parking maneuver. The vehicle adjust its orientation to locate the exact parking area. Repeating this process until successful parking Achieved
+After completing the Three laps. Our robot begins the detection of the parking boundaries, the vehicle assess the available space and align it self with the detected area. If the robot commited the exact angle prior on the given parking space, the vehicle executes a parallel parking maneuver. The vehicle adjust its orientation to locate the exact parking area. Repeating this process until successful parking Achieved. 
 
