@@ -105,12 +105,12 @@ the large motor are connected to an axle in the rear, which allow the car to run
 
 3.5 Rack and pinion system 
 
-Our self driving car uses an Rack and pinion steering system which provides precise and stable controls for moving and turning. 
+Our self driving car uses an Rack and pinion steering system which provides precise and stable controls for moving and turning. This system is use so our vehicle can turn on the corners smoothly with this kind of system its makes our work a lot easier when turning. 
 
 
 3.5.1 how does the system works?
 
-The rack and pinion steering system converts the rotational motion of your steering wheel into the linear motion needed to turn the car's wheel. This system is used to reduce the tires in slipping and prevents oversteer and understeer. Pressure must be constantly applied for the steering gear to be in contact with pinion bar.
+The rack and pinion steering system converts the rotational motion of your steering wheel into the linear motion needed to turn the car's wheel. This system is used to reduce the tires in slipping and prevents oversteer and understeer. Pressure must be constantly applied for the steering gear to be in contact with pinion bar. 
 
 4.0 Power management
 
@@ -130,15 +130,15 @@ The camera can differentiate colors by utilizing the color detection built in. T
 
 5.1 The base
 
-The base was created to be compact enough to fit regulations but light enough to be quick enough to run laps in a quick and efficient manner, through revisions and the such we ultimately found our base to be effective at the job at hand, modifications were made so it could hold all our components.
+The base was created to be compact enough to fit regulations but light enough to be quick enough to run laps in a quick and efficient manner, through revisions and the such we ultimately found our base to be effective at the job at hand, modifications were made so it could hold all our components. This base was made so it can support the weight of the hub, sensors and other needs for our vehicle but light enough so it can still move faster.
 
 5.2 Adding the components
 
-The components are all connected by pegs, no adhesives were used when connecting the components to the robot. While most components simply click into place and just sit there, a few components require to be locked in such as the pinion in the steering system.
+The components are all connected by pegs, no adhesives were used when connecting the components to the robot. While most components simply click into place and just sit there, a few components require to be locked in such as the pinion in the steering system. 
 
 5.3 Wiring
 
-The wiring is organized in order to not inhibit the robot or it's movements, most of the wires simply slip under the robot into its respective port and once connected is left there. Markings indicate where the wires go but we still get confused so we guess sometimes.
+The wiring is organized in order to not inhibit the robot or it's movements, most of the wires simply slip under the robot into its respective port and once connected is left there. Markings indicate where the wires are needed to plug.
 
 6.0 strategy
 
@@ -149,13 +149,14 @@ Just like in real life, it is preferred not to crash into a wall while driving a
 
 6.2 Lines
 
-How do you know when to turn when you're driving? Thankfully we have the lines, these lines dictate when our robot needs to turn. To detect the lines we use color sensor. This sensor detects the colors blue and orange. Because of the lines we know when to turn and where to turn if left or right 
+How do you know when to turn when you're driving? Thankfully we have the lines, these lines dictate when our robot needs to turn. To detect the lines we use color sensor. This sensor detects the color blue and orange. Because of the color sensor we can detect the lines to indicate where to turn clockwise or counterclockwise, left or right. The blue color indicates counterclockwise and the orange indicates clockwise rotation. 
 
 6.3 Obstacles
 
-In the obstacle challenge we use camera, this camera detects the obstacles like green and red. The camera  Once it detects the color green it needs to turn left and right for the color red. This camera helps us to know the distance between our robot and the obstacle. 
+In the obstacle challenge we use camera, this camera detects the obstacles like green and red. Once the camera detects the color green it needs to turn left and right for the color red. This camera helps us to know the distance between our robot and the obstacle. So it can adjust itself for the remaining time before it hit the obstacles. 
 
 6.4 Open challenge 
+
 for the open challenge we use infrared and color sensors, the infrared sensors detects the inner and outer walls. Once the vehicle is near the walls the sensors detects it and adjust itself a bit further the walls. The infrared sensors help the car not to bump on the inner and outer walls. The color sensor detects the color blue and orange once it detects a color it will turn clockwise or counterclockwise.
 
 7.0 Parking strategy 
