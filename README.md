@@ -29,7 +29,7 @@ John Kenneth Orellano
 
 Robot engineer / Research developer
 
-I like gaming, playing chess, and watching movies/anime until morning and sketching if I'm bored but most of the time, I'm watching movies and anime.
+I like gaming, playing chess, and watching movies/anime until morning and sketching if I'm bored but most of the time I'm just watching movies and anime.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Naithan Velasco
@@ -49,12 +49,12 @@ This project is the result of the hardwork of our team and a showcase of our spi
 
 Team Supervisor: John Viray
 
-Coaches: Bong John Abraham Agno/James
+Coaches: Bong John Abraham Agno/Michael James Estipular Ergino 
 
 
 1.3 Reason to participate
 
-We participate in this competition in order to showcase our skills and talents in order to succeed and cooperate as a great team. We must utilize our skills and cooperation in order to represent our province of La Union and be able to make our people proud and give them something to be proud about. We enjoy the challenge of being able to go against the biggest schools in the phillipines and creating robots that could one day make a difference. Most of all, we aim to win, but we also aim to have fun while doing so and enjoy what we do despite the hard comning and all the negativities that come along our way on our path to victory.
+We participate in this competition in order to showcase our skills and talents in order to succeed and cooperate as a great team. We must utilize our skills and cooperation in order to represent Region 1 and be able to make our people proud and give them something to be proud about. We enjoy the challenge of being able to go against the biggest schools in the Phillipines and creating robots that could one day make a difference. Most of all, we aim to win, but we also aim to have fun while doing so and enjoy what we do despite the hard comning and all the negativities that come along our way on our path to victory.
 
 2.0 About the car
 -----------------------
@@ -67,7 +67,7 @@ We participate in this competition in order to showcase our skills and talents i
 
 3. As a person would, it adjusts when it feels it's about to hit something, made possible by the multiple ultrasound sensors.
 
-4. After 3 laps, it dies.
+4. After 3 laps, it automatically stops. 
 
 5. it can differentiate colors through a mix of color sensors and a camera.
 
@@ -101,7 +101,7 @@ We used a combination of large motors and medium motors as it allowed us to util
 
 3.4 motors axle system
 
-the large motor are connected to an axle in the rear, which allow the car to run faster and the medium motor is connected to the steering system in front. This allows our wheels to support the weight of the robot. This axle is important for the car to move forward and backwards and ensuring a smooth turn in curves. It improves the stability of our vehicle, which is important for tight corners.
+The large motor are connected to an axle in the rear, which allow the car to run faster and the medium motor is connected to the steering system in front. This allows our wheels to support the weight of the robot. This axle is important for the car to move forward and backwards and ensuring a smooth turn in curves. It improves the stability of our vehicle, which is important for tight corners.
 
 3.5 Rack and pinion system 
 
@@ -157,7 +157,7 @@ In the obstacle challenge we use camera, this camera detects the obstacles like 
 
 6.4 Open challenge 
 
-for the open challenge we use infrared and color sensors, the infrared sensors detects the inner and outer walls. Once the vehicle is near the walls the sensors detects it and adjust itself a bit further the walls. The infrared sensors help the car not to bump on the inner and outer walls. The color sensor detects the color blue and orange once it detects a color it will turn clockwise or counterclockwise.
+For the open challenge we use infrared and color sensors, the infrared sensors detects the inner and outer walls. Once the vehicle is near the walls the sensors detects it and adjust itself a bit further the walls. The infrared sensors help the car not to bump on the inner and outer walls. The color sensor detects the color blue and orange once it detects a color it will turn clockwise or counterclockwise.
 
 7.0 Parking strategy 
 
