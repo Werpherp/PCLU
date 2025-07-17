@@ -77,15 +77,16 @@ We participate in this competition in order to showcase our skills and talents i
 
 4. After 3 laps, it automatically stops. 
 
-5. it can differentiate colors through a mix of color sensors and a camera.
+5. It can differentiate colors through a mix of color sensors and a camera.
 
 6. The camera works as eyes and allows it to see better colors.
 
-7. if theres too much of a certain color and the distance is too close, it'll read the color and turn accordingly.
+7. If theres too much of a certain color and the distance is too close, it'll read the color and turn accordingly.
 
 
 
 ## 2.2 Flow diagram
+<div align="center"><img width=80% src="schemes/Flow Diagram.jpeg"></img></div>
 
 ## 2.3 Why Ev3?
 
