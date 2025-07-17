@@ -45,14 +45,14 @@ Match name: Self Driving car
 
 | Name | Age | Role | Facts |
 | :---: | :---: | :---: | :--- |
-| John Viray | 16 |Programmer/Technial Analysis| I enjoy driving, surfing, and boxing. A lot of my inspiration comes from those cool machines like F1 cars and fighter jets. Single.|
+| John Viray | 16 | Programmer/Technical Analysis | I enjoy driving, surfing, and boxing. A lot of my inspiration comes from those cool machines like F1 cars and fighter jets. Single.|
 | John Kenneth Orellano | 16 | Robot engineer/Research developer | I like gaming, playing chess, and watching movies/anime until morning and sketching when i'm bored but most of the time im just watching movies or anime |
-| Naithan Velasco | 16 | Programming/robot engineer | I like playing badminton, playing mobile games and watching anime |
+| Naithan Velasco | 16 | Programmer/robot engineer | I like playing badminton, playing mobile games and watching anime |
 
 
 ## 1.2 Team Management
 
-This project is the result of the hardwork of our team and a showcase of our spirit and drive to succeed in the competition and create a feat of robotics that we can be proud of that is worthy of a showcase at the largest robotics event in the phillipines. Each of our members worked hand in hand to be able to represent La union and we have learned more than we could've imagined by working on this project.
+This project is the result of the hardwork of our team and a showcase of our spirit and drive to succeed in the competition and create a feat of robotics that we can be proud of that is worthy of a showcase at the largest robotics event in the Phillipines. Each of our members worked hand in hand to be able to represent La Union and we have learned more than we could've imagined by working on this project.
 
 
 Team Supervisor: John Viray
@@ -138,13 +138,13 @@ This battery primarily use to power the Ev3 brick which is the brain of our robo
 
 ## 4.2 Why we use sensors and camera?
 
-The camera can differentiate colors by utilizing the color detection built in. The color differentiation allows us to avoid the green and red accordingly to the regulations. Our infrared avoidance sensors are utilized in order to detect near by obstacles and walls in order to avoid or adjust accordingly depending on the object, it's distance, and it's direction.
+The camera can differentiate colors by utilizing the color detection built in. The color differentiation allows us to avoid the green and red accordingly to the regulations. Our ultrasonic sensors are utilized in order to detect near by obstacles and walls in order to avoid or adjust accordingly depending on the object, it's distance, and it's direction.
 
 # 5.0 Building the robot
 
 ## 5.1 The base
 
-The base was created to be compact enough to fit regulations but light enough to be quick enough to run laps in a quick and efficient manner, through revisions and the such we ultimately found our base to be effective at the job at hand, modifications were made so it could hold all our components. This base was made so it can support the weight of the hub, sensors and other needs for our vehicle but light enough so it can still move faster.
+The base was created to be compact enough to fit regulations but light enough to be quick enough to run laps in a quick and efficient manner, through revisions and the such we ultimately found our base to be effective at the job at hand, modifications were made so it could hold all our components. This base was made so it can support the weight of the hub, sensors and other needs for our vehicle but light enough so it can still move fast.
 
 ## 5.2 Adding the components
 
@@ -171,7 +171,7 @@ In the obstacle challenge we use camera, this camera detects the obstacles like 
 
 ## 6.4 Open challenge 
 
-For the open challenge we use infrared and color sensors, the infrared sensors detects the inner and outer walls. Once the vehicle is near the walls the sensors detects it and adjust itself a bit further the walls. The infrared sensors help the car not to bump on the inner and outer walls. The color sensor detects the color blue and orange once it detects a color it will turn clockwise or counterclockwise.
+For the open challenge we use ultrasonic and color sensors, the ultrasonic sensors detects the inner and outer walls. Once the vehicle is near the walls the sensors detects it and adjust itself a bit further the walls. The ultrasonic sensors help the car not to bump on the inner and outer walls. The color sensor detects the color blue and orange once it detects a color it will turn clockwise or counterclockwise.
 
 # 7.0 Parking strategy 
 
