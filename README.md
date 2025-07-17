@@ -100,6 +100,7 @@ __________________________________________________________
 |Camera|1 | Camera is use to detect the obstacles and serves as the robots eyes |
 
 3.2 wiring diagram
+<div align="center"><img width=80% src="schemes/wiring diagram.png"></img></div>
 
 3.3 why we used medium and large motor?
 
