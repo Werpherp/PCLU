@@ -37,7 +37,7 @@ Match name: Self Driving car
   - [6.3 Obstacles](#63-obstacles)
   - [6.4 Open challenge](#64-open-challenge)
 - [7.0 Parking strategy](#70-parking-strategy)
-
+  - [7.1 Video Open Challenge](#71-video-open-challenge)
 # 1.0 Introduction 
 -----------------------
 
@@ -45,7 +45,7 @@ Match name: Self Driving car
 
 | Name | Age | Role | Facts |
 | :---: | :---: | :---: | :--- |
-| John Viray | 16 |Prgrammer/Technial Analysis| I enjoy driving, surfing, and boxing. A lot of my inspiration comes from those cool machines like F1 cars and fighter jets. Single.|
+| John Viray | 16 |Programmer/Technial Analysis| I enjoy driving, surfing, and boxing. A lot of my inspiration comes from those cool machines like F1 cars and fighter jets. Single.|
 | John Kenneth Orellano | 16 | Robot engineer/Research developer | I like gaming, playing chess, and watching movies/anime until morning and sketching when i'm bored but most of the time im just watching movies or anime |
 | Naithan Velasco | 16 | Programming/robot engineer | I like playing badminton, playing mobile games and watching anime |
 
@@ -177,3 +177,6 @@ For the open challenge we use infrared and color sensors, the infrared sensors d
 
 After completing the Three laps. Our robot begins the detection of the parking boundaries, the vehicle assess the available space and align it self with the detected area. If the robot commited the exact angle prior on the given parking space, the vehicle executes a parallel parking maneuver. The vehicle adjust its orientation to locate the exact parking area. Repeating this process until successful parking Achieved. 
 
+# 7.1 Video Open Challenge
+ 
+https://youtu.be/yuSwamgULuo?si=QfCYIgs6R4ly2_1n
