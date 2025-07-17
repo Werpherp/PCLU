@@ -90,7 +90,14 @@ Ev3 ultimately proved to be a much more reliable and faster option for us as its
 3.1 Bill of Materials
 __________________________________________________________
 
-![image can't be loaded so either click the link or get wifi](Rorke.pdf)
+| Component | Quantity | Function |
+| :--- | :---: | :--- |
+|Ev3 Large Motor |1 |Serves as the main driving motor for the robot, creates a lot of torque|
+|Ev3 Medium Motor |1 |serves as our motor for turning and very fast|
+|Ev3 Hub |1 |The brain of our robot the one that controls the motor and sensors |
+|Ev3 Battery |1 |A rechargeable Battery with a capacity of 2050mAh lithium-ion battery |
+|Ev3 Infrared Sensor |2 |This sensors dictate the robots main logic and allow it to avoid the walls and cetrain objects within its radius around it |
+|Camera|1 | Camera is use to detect the obstacles and serves as the robots eyes |
 
 3.2 wiring diagram
 
